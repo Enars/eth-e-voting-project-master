@@ -5,3 +5,6 @@ A basic e-voting app based on the Ethereum blockchain test network, made for the
 
 Link to our repo:
 https://github.com/onebitmax/eth-e-voting-project
+
+Link to the publication (Swedish):
+http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1181660&dswid=979
